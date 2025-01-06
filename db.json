@@ -1,0 +1,92 @@
+{
+	"shoes": [
+		{
+			"id": 1,
+			"imgUrl": "https://i.ibb.co/TkPpL6y/ae128748f1d38e8642314b62619f4b48.png",
+			"title": "Nike Court Zoom Cage 2",
+			"price": 4699,
+			"category": "shoes"
+		},
+		{
+			"id": 2,
+			"imgUrl": "https://i.ibb.co/mB6fvdt/86b4afbe61e77d4e894129d9262c6eba.png",
+			"title": "Air Force 1 Ultra",
+			"price": 6789,
+			"category": "shoes"
+		},
+		{
+			"id": 3,
+			"imgUrl": "https://i.ibb.co/NnTck06/f07867de5b03019b6eeb9dcb51eae5b4.png",
+			"title": "Air Force 1 Ultra Flyknit",
+			"price": 3129,
+			"category": "shoes"
+		},
+		{
+			"id": 4,
+			"imgUrl": "https://i.ibb.co/Snyrq8H/8174beb11173343984c6663a09fd309b.png",
+			"title": "Men’s Soccer Shoes",
+			"price": 2699,
+			"category": "shoes"
+		}
+	],
+	"clothes": [
+		{
+			"id": 5,
+			"imgUrl": "https://i.ibb.co/2yrKrMK/ff9bf0c078404cb754992446c9ef459a.png",
+			"title": "Nike Court Zoom Cage 2",
+			"price": 4699,
+			"category": "clothes"
+		},
+		{
+			"id": 6,
+			"imgUrl": "https://i.ibb.co/3NyYd0r/5514f103f1639d758de50dd17c182b71.png",
+			"title": "Air Force 1 Ultra",
+			"price": 6789,
+			"category": "clothes"
+		},
+		{
+			"id": 7,
+			"imgUrl": "https://i.ibb.co/JQ4r1Yj/e36cb5cc822beb0050b66285572e3753.png",
+			"title": "Air Force 1 Ultra Flyknit",
+			"price": 3129,
+			"category": "clothes"
+		},
+		{
+			"id": 8,
+			"imgUrl": "https://i.ibb.co/LCbp7sH/ae6972b1739fe048f9127b355eb1af3f.png",
+			"title": "Men’s Soccer Shoes",
+			"price": 2699,
+			"category": "clothes"
+		}
+	],
+	"Accessories": [
+		{
+			"id": 9,
+			"imgUrl": "https://i.ibb.co/JFtp1rd/7b691db22e9244656ba1ab7c306a21ae.png",
+			"title": "Nike Court Zoom Cage 2",
+			"price": 4699,
+			"category": "Accessories"
+		},
+		{
+			"id": 10,
+			"imgUrl": "https://i.ibb.co/PW1zYMD/23e75926f18f57904b68319c48cc65e7.png",
+			"title": "Air Force 1 Ultra",
+			"price": 6789,
+			"category": "Accessories"
+		},
+		{
+			"id": 11,
+			"imgUrl": "https://i.ibb.co/JH5qC83/9ca1a3056c53fab5053c77fbc1644e42.png",
+			"title": "Air Force 1 Ultra Flyknit",
+			"price": 3129,
+			"category": "Accessories"
+		},
+		{
+			"id": 12,
+			"imgUrl": "https://i.ibb.co/2q7fTws/c0f0474b6a1711344d16c607b9aa05a9.png",
+			"title": "Men’s Soccer Shoes",
+			"price": 2699,
+			"category": "Accessories"
+		}
+	]
+}
